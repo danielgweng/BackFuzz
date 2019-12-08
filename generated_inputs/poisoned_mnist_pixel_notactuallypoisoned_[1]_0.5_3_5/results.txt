@@ -1,0 +1,5 @@
+covered neurons percentage 52 neurons 0.385
+ average_norm = 2.065758523552917
+ adversial num = 129
+ average perb adversial = 0.24019552400523378
+ backdoor activation rate = 0.0

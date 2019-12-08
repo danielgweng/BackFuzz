@@ -1,0 +1,2 @@
+backdoor pixel activation rate is 0.0
+avg perturbation pixel activation rate is 0.5932247899159664

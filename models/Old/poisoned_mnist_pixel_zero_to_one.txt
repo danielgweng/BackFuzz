@@ -1,0 +1,4 @@
+
+Test accuracy: 87.85%
+Poisonous test set accuracy (i.e. effectiveness of poison): 20.75%
+Clean test set accuracy: 91.60%
