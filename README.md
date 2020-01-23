@@ -1,0 +1,2 @@
+# BackFuzz
+This project was done as part of the course ECE1784H Trustworthy Machine Learning at the University of Toronto. BackFuzz modifies DLFuzz, an automated whitebox fuzzer which generates adversarial inputs that cause misbehavior in DL models. See https://github.com/turned2670/DLFuzz for more information. BackFuzz is designed to target models that have been compromised with a backdoor and generate inputs that trigger this backdoor.
